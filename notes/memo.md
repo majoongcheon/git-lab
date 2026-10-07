@@ -11,3 +11,9 @@
 
 - 깃에서 init, add, restore, diff, status 사용법 실습
 - commit 하면서 차이점을 확인하여 변경 내용을 작성하는 습관을 들여야 한다.
+
+
+## 학습 소감
+
+- commit 전 add한 파일 상태 확인이 필요하다.
+- gitignore 설정한 것을 고려할 것.
