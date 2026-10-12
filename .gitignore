@@ -4,3 +4,4 @@
 logs/
 *.tmp
 __pycache__/
+tracked-demo.txt
